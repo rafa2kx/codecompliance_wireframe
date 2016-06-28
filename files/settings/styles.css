@@ -259,3 +259,31 @@
   width:1px;
   height:1px;
 }
+#u34_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:324px;
+  height:39px;
+  background:inherit;
+  background-color:rgba(22, 155, 213, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u34 {
+  position:absolute;
+  left:177px;
+  top:69px;
+  width:324px;
+  height:39px;
+}
+#u35 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:320px;
+  word-wrap:break-word;
+}
